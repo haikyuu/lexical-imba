@@ -229,12 +229,12 @@
     box-shadow: 0 0 0 2px #a6cdfe;
     border-radius: 2px;
   }
-  .PlaygroundEditorTheme__listItemUnchecked:before {
-    background-image: url(/src/images/icons/square.svg);
+  /* .PlaygroundEditorTheme__listItemUnchecked:before {
+    background-image: url(/images/icons/square.svg);
   }
   .PlaygroundEditorTheme__listItemChecked:before {
-    background-image: url(/src/images/icons/square-check.svg);
-  }
+    background-image: url(/images/icons/square-check.svg);
+  } */
   .PlaygroundEditorTheme__nestedListItem {
     list-style-type: none;
   }
